@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "title" : "Butterfly",
+            "des" : "Butterflies are beautiful insects that undergo a remarkable transformation from caterpillar to butterfly. They come in various vibrant colors and are known for their graceful flight.",
+            "img": "../img/01.jpg",
+            "id": 1
+        },
+        {
+            "title" : "Beach",
+            "des" : " Flowers are nature's delicate gems, blooming in vibrant hues and spreading joy with their sweet fragrance.",
+            "img": "../img/03.jpg",
+            "id": 2
+        },
+        {
+            "title" : "Flower",
+            "des" : " The beach is a tranquil oasis with soothing waves and warm sand, offering a peaceful retreat from the chaos of daily life.",
+            "img": "../img/02.jpg",
+            "id": 3
+        },
+        {
+            "title" : "Eagle",
+            "des" : "The eagle soars majestically in the sky, a symbol of strength, freedom, and perseverance.",
+            "img": "../img/04.jpg",
+            "id": 4
+        }
+    ]
+}
